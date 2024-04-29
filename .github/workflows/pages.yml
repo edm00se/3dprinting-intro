@@ -26,8 +26,7 @@ jobs:
       - name: Build Slidev Site
         run: |
           npm ci
-          npm run export
-          npm run build -- --base /3dprinting-intro/ --download
+          npm run build -- --base /3dprinting-intro/
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
