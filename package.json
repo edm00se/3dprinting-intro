@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "slidev",
     "build": "slidev build",
-    "export": "slidev export",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "export": "slidev export"
   },
   "author": "Eric McCormick",
   "license": "CC-BY-ND-4.0",
