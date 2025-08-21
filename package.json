@@ -10,11 +10,11 @@
   "author": "Eric McCormick",
   "license": "CC-BY-ND-4.0",
   "dependencies": {
-    "@slidev/cli": "^51.4.0",
+    "@slidev/cli": "^51.8.2",
     "@slidev/theme-apple-basic": "^0.25.1",
     "@slidev/theme-default": "^0.25.0"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.51.0"
+    "playwright-chromium": "^1.55.0"
   }
 }
