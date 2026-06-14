@@ -10,7 +10,7 @@
   "author": "Eric McCormick",
   "license": "CC-BY-ND-4.0",
   "dependencies": {
-    "@slidev/cli": "^52.16.0",
+    "@slidev/cli": "^51.8.2",
     "@slidev/theme-apple-basic": "^0.25.1",
     "@slidev/theme-default": "^0.25.0"
   },
