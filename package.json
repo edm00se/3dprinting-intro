@@ -10,12 +10,12 @@
   "author": "Eric McCormick",
   "license": "CC-BY-ND-4.0",
   "dependencies": {
-    "@slidev/cli": "^52.19.0",
+    "@slidev/cli": "^53.0.0",
     "@slidev/theme-apple-basic": "^0.25.1",
     "@slidev/theme-default": "^0.25.0"
   },
   "devDependencies": {
-    "esbuild": "^0.28.1",
-    "playwright-chromium": "^1.62.1"
+    "esbuild": "^0.28.2",
+    "playwright-chromium": "^1.64.0"
   }
 }
