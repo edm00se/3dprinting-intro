@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "esbuild": "^0.28.2",
-    "playwright-chromium": "^1.64.0"
+    "playwright-chromium": "^1.64.1"
   },
   "overrides": {
     "unocss": "66.11.0"
